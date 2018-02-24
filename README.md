@@ -17,3 +17,14 @@ Edit any of the .md files.  To help improve/format text.
 We're using markdown files. 
 
 Syntax guide found here : https://guides.github.com/features/mastering-markdown/
+
+## Adding new commands
+
+* To add new commands just make a new .md file.
+* The name of the file will be the name of the command that follows the +
+   * IE - GARBLE.md will result in +garble showing the contents of GARBLE.md on the server.
+   
+   
+## WHEN
+
+Updates will not be visible until I pull them and add them manually.  You will not see your changes right away.
